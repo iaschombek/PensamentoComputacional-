@@ -2,7 +2,8 @@ body{
 background-color: 	#E6E6FA
 }
 h1{
-  text-align: center; color: purple; font: Cursive
+  text-align: center; color: purple;
+  font-family: Snell Roundhand,fantasy;
 }
 img{
 width: 250px!important;
@@ -11,4 +12,8 @@ height: 300px!important;
 
 img {
   display: flex;
+}
+h2{
+font-family: Snell Roundhand, cursive;
+font-size: 50px;
 }
