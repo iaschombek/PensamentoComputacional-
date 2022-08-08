@@ -1,9 +1,10 @@
 body{
-background-color: 	#E6E6FA
+background-color: 	#E0FFFF
 }
 h1{
-  text-align: center; color: purple;
-  font-family: Snell Roundhand,fantasy;
+  text-align: center; color: #C71585;
+  font-family: OCR A Std, monospace;
+  font-size: 60px;
 }
 img{
 width: 250px!important;
@@ -15,5 +16,21 @@ img {
 }
 h2{
 font-family: Snell Roundhand, cursive;
-font-size: 50px;
+font-size: 45px;
+text-align: justify;color: #FF00FF;
+
+}
+p{
+font-size: 27px;
+font-family: Comic Sans MS, Comic Sans, cursive;
+}
+h3{
+  font-family: Snell Roundhand, cursive;
+  font-size: 45px;
+  text-align: justify;color: #FF00FF;
+}
+h4{
+  font-family: Snell Roundhand, cursive;
+  font-size: 45px;
+  text-align: justify;color: #FF00FF;
 }
