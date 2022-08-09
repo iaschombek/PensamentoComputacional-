@@ -6,6 +6,18 @@ h1{
   font-family: OCR A Std, monospace;
   font-size: 60px;
 }
+p{
+font-size: 27px;
+font-family: Comic Sans MS, Comic Sans, cursive;
+margin-right: 5%
+}
+
+
+#livro{
+  margin-left: 5%
+}
+
+
 img{
 width: 250px!important;
 height: 300px!important;
@@ -18,12 +30,12 @@ h2{
 font-family: Snell Roundhand, cursive;
 font-size: 45px;
 text-align: justify;color: #FF00FF;
+}
 
+.Classicos{
+  margin: 3%
 }
-p{
-font-size: 27px;
-font-family: Comic Sans MS, Comic Sans, cursive;
-}
+
 h3{
   font-family: Snell Roundhand, cursive;
   font-size: 45px;
