@@ -4,7 +4,7 @@ background-color: 	#E0FFFF
 h1{
   text-align: center; color: #C71585;
   font-family: OCR A Std, monospace;
-  font-size: 60px;
+  font-size: 60px; color:#C71585
 }
 p{
 font-size: 27px;
